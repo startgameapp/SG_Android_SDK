@@ -1,6 +1,3 @@
-# SG_Android_SDK
-Help developers build the StarGame in their project.
-
 # <center>StartGameSDK 集成文档(渠道)</center>
 
 ## 1.接入说明
