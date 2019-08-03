@@ -153,6 +153,9 @@ Fragment|游戏中心fragment
 -keep class com.startgame.single.**{
     public *;
 }
+-keep class android.app.servertransaction.ClientTransaction{
+    public *;
+}
 -dontwarn com.ledong.lib.**
 -keep class com.ledong.lib.** {*;}
 -dontwarn com.leto.game.**
